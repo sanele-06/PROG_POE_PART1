@@ -16,3 +16,5 @@ Commit 3: Added documentation for submission
 Commit 4: Code tested and all features are working
 
 Commit 5: Presentation Video link
+
+Commit 6: Final version ready submission
